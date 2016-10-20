@@ -1,0 +1,13 @@
+hbqt.hbc
+hbnf.hbc
+hbct.hbc
+-B
+-ES2
+-A
+-V
+-W
+-hbcppmm-
+-lhwgdebug
+Tinletters.PRG
+fileopenTIN.PRG
+TINCreate.PRG
